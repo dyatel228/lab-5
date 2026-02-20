@@ -48,6 +48,7 @@
    - Вывод сообщения об ошибке
 <img width="730" height="307" alt="image" src="https://github.com/user-attachments/assets/2f3a3f4e-ce9a-4184-bffb-6e24fca4c970" />
 <img width="698" height="245" alt="image" src="https://github.com/user-attachments/assets/fe0fa386-0503-4eb8-b84b-1bbba10bd3bf" />
+<img width="689" height="274" alt="image" src="https://github.com/user-attachments/assets/ef6a57be-0f4a-474e-9123-b1f244b4b261" />
 
 
 
@@ -63,6 +64,9 @@
 6. Добавление объекта в соответствующий список
 7. Автоматическое сохранение изменений в файл
 8. Вывод сообщения об успешном добавлении с указанием нового ID
+<img width="924" height="793" alt="image" src="https://github.com/user-attachments/assets/af9d2fd5-89d6-4863-9782-e4f51e05ef3d" />
+<img width="1284" height="445" alt="image" src="https://github.com/user-attachments/assets/8e547466-8e80-4f9d-8105-e59bc306b7fd" />
+
 
 ### 5. Выполнение запросов
 Запрос 1: Количество автомобилей одной марки имеющихся в парке после определенного года
@@ -73,6 +77,8 @@
 5. Добавление подходящих элементов в список результатов
 6. Вывод всех найденных элементов
 7. Отображение общего количества результатов
+<img width="659" height="211" alt="image" src="https://github.com/user-attachments/assets/4bf5497a-82d2-4023-9070-a040bac1a155" />
+
 
 Запрос 2: Стоимость рейсов для водителя
 1. Запрос критериев поиска у пользователя
@@ -84,6 +90,8 @@
    - Вывод результата
 4. Если элемент не найден:
    - Вывод сообщения об ошибке
+<img width="644" height="128" alt="image" src="https://github.com/user-attachments/assets/c4f7a071-e11f-42a1-aedc-55de211ddcae" />
+
 
 Запрос 3: Количество рейсов превышающих заданное расстояние
 1. Запрос критериев отбора у пользователя
@@ -95,6 +103,8 @@
    - Добавление в список результатов
 5. Вывод всех найденных записей с полной информацией
 6. Отображение общего количества результатов
+<img width="899" height="483" alt="image" src="https://github.com/user-attachments/assets/be62d2a6-1d61-4177-8bfc-48cda07e6a6d" />
+
 
 Запрос 4: Средний стаж водителей определенной марки машин
 1. Запрос критериев поиска у пользователя
@@ -106,3 +116,4 @@
 5. Вычисление итогового значения по найденным записям
 6. Вывод результата
 7. Если данные не найдены - вывод сообщения об ошибке
+<img width="449" height="85" alt="image" src="https://github.com/user-attachments/assets/17ef47d4-b698-4d9f-9b81-53d8d382a7de" />
