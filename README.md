@@ -46,6 +46,10 @@
    - Вывод сообщения об успешном удалении
 6. Если элемент не найден:
    - Вывод сообщения об ошибке
+<img width="730" height="307" alt="image" src="https://github.com/user-attachments/assets/2f3a3f4e-ce9a-4184-bffb-6e24fca4c970" />
+<img width="698" height="245" alt="image" src="https://github.com/user-attachments/assets/fe0fa386-0503-4eb8-b84b-1bbba10bd3bf" />
+
+
 
 ### 4. Добавление элементов
 1. Выбор пользователем типа данных для добавления
